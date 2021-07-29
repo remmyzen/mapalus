@@ -19,7 +19,7 @@ It is also available as requirements.txt in the project and do
 to install the necessary libraries.
 
 ## Examples
-The different examples to run the code is available in the **notebooks** directory.
+The different examples to run the code is available in the `notebooks` directory.
 
 ## References
 [1] G.  Carleo,   K.  Choo,   D.  Hofmann,   J.  E.  T.  Smith,T.  Westerhout,  F.  Alet,  E.  J.  Davis,  S.  Efthymiou,I. Glasser, S.-H. Lin, M. Mauri, G. Mazzola, C. B. Mendl,E. van Nieuwenburg, O. O’Reilly, H. Th ́eveniaut, G. Tor-lai,  F.  Vicentini,  and  A.  Wietek,  SoftwareX ,  100311(2019).
