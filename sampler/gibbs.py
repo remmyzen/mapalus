@@ -9,7 +9,7 @@ class Gibbs(Sampler):
     Only works for RBM machine with real positive wave function
     """
 
-    def __init__(self, num_samples, num_steps):
+    def __init__(self, num_samples, num_steps=1):
         """
         Construct a Gibbs sampler
 
