@@ -13,6 +13,7 @@ These are the main library requirements for the project:
 * `sklearn`
 * `jupyter` to run the notebooks.
 * `matplotlib` for plotting purposes.
+* `networkx` if one wants to define their own graph.
 
 It is also available as requirements.txt in the project and do
 ``pip install -r requirements.txt``
