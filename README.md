@@ -7,18 +7,19 @@ For similar library with Tensorflow 1 library with Python 2 (which is not mainta
 This code is used in [3,4] where we propose several transfer learning protocols to improve the scalability, efficiency, and effectiveness of neural-network quantum states.
 
 ## Requirements
-This project is based on Python programming language. We suggest to use Python 3.
+This project is based on Python. The code is tested on Python 3.8.5.
 These are the main library requirements for the project:
-* `tensorflow==2.3.0` or `tensorflow-gpu==2.3.0`
-* `numpy`
+* `tensorflow==2.3.0` to run on CPUs or `tensorflow-gpu==2.3.0` to run on GPUs
 * `scipy`
-* `matplotlib`
+* `sklearn`
+* `jupyter` to run the notebooks.
+* `matplotlib` for plotting purposes.
 
 It is also available as requirements.txt in the project and do
 ``pip install -r requirements.txt``
 to install the necessary libraries.
 
-## Examples
+## Usage and Examples
 The different examples to run the code is available in the `notebooks` directory.
 
 ## References
