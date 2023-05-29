@@ -1,6 +1,7 @@
-# nqs-tensorflow2
-This repository implements the neural-network quantum states [1] with Python 3 and Tensorflow 2 library to speed-up the process with graphics processing units (GPU).
-The implementation is greatly inspired by [NetKet](https://www.netket.org/) library [2].
+# Mapalus
+This repository implements the neural-network quantum states [1] with Python 3 and Tensorflow 2 library to speed-up the process with graphics processing units (GPU). It also has some applications for finding extreme eigenvalues of a Hermitian matrix.
+
+The implementation is greatly inspired by the old version of [NetKet](https://www.netket.org/) library [2].
 For similar library with Tensorflow 1 library with Python 2 (which is not maintained anymore), please see the following [repository](https://github.com/remmyzen/nqs-tensorflow).
 
 This code is used in [3,4] where we propose several transfer learning protocols to improve the scalability, efficiency, and effectiveness of neural-network quantum states.
